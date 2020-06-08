@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Pactical.Interface\Pactical.Interface.csproj" />
+    <ProjectReference Include="..\Practial.Domain\Practial.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

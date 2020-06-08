@@ -1,0 +1,12 @@
+D:\PracticalDemo\Pactical.Interface\bin\Debug\netcoreapp3.1\Pactical.Interface.deps.json
+D:\PracticalDemo\Pactical.Interface\bin\Debug\netcoreapp3.1\Pactical.Interface.dll
+D:\PracticalDemo\Pactical.Interface\bin\Debug\netcoreapp3.1\Pactical.Interface.pdb
+D:\PracticalDemo\Pactical.Interface\obj\Debug\netcoreapp3.1\Pactical.Interface.csprojAssemblyReference.cache
+D:\PracticalDemo\Pactical.Interface\obj\Debug\netcoreapp3.1\Pactical.Interface.AssemblyInfoInputs.cache
+D:\PracticalDemo\Pactical.Interface\obj\Debug\netcoreapp3.1\Pactical.Interface.AssemblyInfo.cs
+D:\PracticalDemo\Pactical.Interface\obj\Debug\netcoreapp3.1\Pactical.Interface.csproj.CoreCompileInputs.cache
+D:\PracticalDemo\Pactical.Interface\obj\Debug\netcoreapp3.1\Pactical.Interface.dll
+D:\PracticalDemo\Pactical.Interface\obj\Debug\netcoreapp3.1\Pactical.Interface.pdb
+D:\PracticalDemo\Pactical.Interface\bin\Debug\netcoreapp3.1\Practial.Domain.dll
+D:\PracticalDemo\Pactical.Interface\bin\Debug\netcoreapp3.1\Practial.Domain.pdb
+D:\PracticalDemo\Pactical.Interface\obj\Debug\netcoreapp3.1\Pactical.Interface.csproj.CopyComplete
