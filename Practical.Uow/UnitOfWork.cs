@@ -47,7 +47,7 @@ namespace Practical.Uow
                 context.Employee.Add(model);
                 context.SaveChanges();
 
-                notificationContext.Clients.All.SendAsync("Message", "Employee added successfully" + Environment.NewLine + context.Employee.Count() + " number of employees are available.");
+                notificationContext.Clients.All.SendAsync("Message", "Employee added successfully" + Environment.NewLine + context.Employee.Count() + " number of employees are available.");                
 
                 return new ResponseModel()
                 {

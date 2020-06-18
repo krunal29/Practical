@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "l/zaMS750mR/CQyKvO0sM9oNzKBsGdRymJjEFjaugsMQv5DIgYoBn9mYqS3vhTAN8HJtp+PnX5V1yv0FJSf9HQ==",
+  "dgSpecHash": "hvHBOxCRDQF4QAFftNip1ofkTdPi1l9v2YQh0ZguQpxPSsKQ8n00vzizFFXNpPOZpEG7KvOI1akGAf1UCJLWVA==",
   "success": true,
-  "projectFilePath": "D:\\PracticalDemo\\Practical\\Practical.csproj",
+  "projectFilePath": "D:\\Project\\Practical\\Practical\\Practical.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Krunal.Patel\\.nuget\\packages\\microsoft.aspnetcore.authorization\\2.2.0\\microsoft.aspnetcore.authorization.2.2.0.nupkg.sha512",
     "C:\\Users\\Krunal.Patel\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\2.2.0\\microsoft.aspnetcore.connections.abstractions.2.2.0.nupkg.sha512",

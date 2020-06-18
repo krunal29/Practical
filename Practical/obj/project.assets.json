@@ -1945,11 +1945,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PracticalDemo\\Practical\\Practical.csproj",
+      "projectUniqueName": "D:\\Project\\Practical\\Practical\\Practical.csproj",
       "projectName": "Practical",
-      "projectPath": "D:\\PracticalDemo\\Practical\\Practical.csproj",
+      "projectPath": "D:\\Project\\Practical\\Practical\\Practical.csproj",
       "packagesPath": "C:\\Users\\Krunal.Patel\\.nuget\\packages\\",
-      "outputPath": "D:\\PracticalDemo\\Practical\\obj\\",
+      "outputPath": "D:\\Project\\Practical\\Practical\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -1968,11 +1968,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "D:\\PracticalDemo\\Practial.Domain\\Practial.Domain.csproj": {
-              "projectPath": "D:\\PracticalDemo\\Practial.Domain\\Practial.Domain.csproj"
+            "D:\\Project\\Practical\\Practial.Domain\\Practial.Domain.csproj": {
+              "projectPath": "D:\\Project\\Practical\\Practial.Domain\\Practial.Domain.csproj"
             },
-            "D:\\PracticalDemo\\Practical.Uow\\Practical.Uow.csproj": {
-              "projectPath": "D:\\PracticalDemo\\Practical.Uow\\Practical.Uow.csproj"
+            "D:\\Project\\Practical\\Practical.Uow\\Practical.Uow.csproj": {
+              "projectPath": "D:\\Project\\Practical\\Practical.Uow\\Practical.Uow.csproj"
             }
           }
         }

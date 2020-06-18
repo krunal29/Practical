@@ -12,3 +12,17 @@ D:\PracticalDemo\Practical.Uow\obj\Debug\netcoreapp3.1\Practical.Uow.csproj.Core
 D:\PracticalDemo\Practical.Uow\obj\Debug\netcoreapp3.1\Practical.Uow.csproj.CopyComplete
 D:\PracticalDemo\Practical.Uow\obj\Debug\netcoreapp3.1\Practical.Uow.dll
 D:\PracticalDemo\Practical.Uow\obj\Debug\netcoreapp3.1\Practical.Uow.pdb
+D:\Project\Practical\Practical.Uow\bin\Debug\netcoreapp3.1\Practical.Uow.deps.json
+D:\Project\Practical\Practical.Uow\bin\Debug\netcoreapp3.1\Practical.Uow.dll
+D:\Project\Practical\Practical.Uow\bin\Debug\netcoreapp3.1\Practical.Uow.pdb
+D:\Project\Practical\Practical.Uow\bin\Debug\netcoreapp3.1\Pactical.Interface.dll
+D:\Project\Practical\Practical.Uow\bin\Debug\netcoreapp3.1\Practial.Domain.dll
+D:\Project\Practical\Practical.Uow\bin\Debug\netcoreapp3.1\Pactical.Interface.pdb
+D:\Project\Practical\Practical.Uow\bin\Debug\netcoreapp3.1\Practial.Domain.pdb
+D:\Project\Practical\Practical.Uow\obj\Debug\netcoreapp3.1\Practical.Uow.csprojAssemblyReference.cache
+D:\Project\Practical\Practical.Uow\obj\Debug\netcoreapp3.1\Practical.Uow.AssemblyInfoInputs.cache
+D:\Project\Practical\Practical.Uow\obj\Debug\netcoreapp3.1\Practical.Uow.AssemblyInfo.cs
+D:\Project\Practical\Practical.Uow\obj\Debug\netcoreapp3.1\Practical.Uow.csproj.CoreCompileInputs.cache
+D:\Project\Practical\Practical.Uow\obj\Debug\netcoreapp3.1\Practical.Uow.csproj.CopyComplete
+D:\Project\Practical\Practical.Uow\obj\Debug\netcoreapp3.1\Practical.Uow.dll
+D:\Project\Practical\Practical.Uow\obj\Debug\netcoreapp3.1\Practical.Uow.pdb

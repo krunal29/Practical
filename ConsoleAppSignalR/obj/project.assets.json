@@ -649,11 +649,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PracticalDemo\\ConsoleAppSignalR\\ConsoleAppSignalR.csproj",
+      "projectUniqueName": "D:\\Project\\Practical\\ConsoleAppSignalR\\ConsoleAppSignalR.csproj",
       "projectName": "ConsoleAppSignalR",
-      "projectPath": "D:\\PracticalDemo\\ConsoleAppSignalR\\ConsoleAppSignalR.csproj",
+      "projectPath": "D:\\Project\\Practical\\ConsoleAppSignalR\\ConsoleAppSignalR.csproj",
       "packagesPath": "C:\\Users\\Krunal.Patel\\.nuget\\packages\\",
-      "outputPath": "D:\\PracticalDemo\\ConsoleAppSignalR\\obj\\",
+      "outputPath": "D:\\Project\\Practical\\ConsoleAppSignalR\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -19,7 +19,7 @@ namespace Practial.Domain.Models
         public Club Club { get; set; }
 
         [ForeignKey("Department")]
-        public char DepartmentId { get; set; }
+        public char? DepartmentId { get; set; }
 
         public Department Department { get; set; }
     }

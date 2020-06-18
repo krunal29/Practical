@@ -21,3 +21,15 @@ D:\PracticalDemo\Practial.Domain\bin\Debug\netcoreapp3.1\Practial.Domain.runtime
 D:\PracticalDemo\Practial.Domain\bin\Debug\netcoreapp3.1\Practial.Domain.runtimeconfig.dev.json
 D:\PracticalDemo\Practial.Domain\obj\Debug\netcoreapp3.1\Practial.Domain.genruntimeconfig.cache
 D:\PracticalDemo\Practial.Domain\obj\Debug\netcoreapp3.1\Practial.Domain.csproj.CoreCompileInputs.cache
+D:\Project\Practical\Practial.Domain\bin\Debug\netcoreapp3.1\Practial.Domain.deps.json
+D:\Project\Practical\Practial.Domain\bin\Debug\netcoreapp3.1\Practial.Domain.runtimeconfig.json
+D:\Project\Practical\Practial.Domain\bin\Debug\netcoreapp3.1\Practial.Domain.runtimeconfig.dev.json
+D:\Project\Practical\Practial.Domain\bin\Debug\netcoreapp3.1\Practial.Domain.dll
+D:\Project\Practical\Practial.Domain\bin\Debug\netcoreapp3.1\Practial.Domain.pdb
+D:\Project\Practical\Practial.Domain\obj\Debug\netcoreapp3.1\Practial.Domain.csprojAssemblyReference.cache
+D:\Project\Practical\Practial.Domain\obj\Debug\netcoreapp3.1\Practial.Domain.AssemblyInfoInputs.cache
+D:\Project\Practical\Practial.Domain\obj\Debug\netcoreapp3.1\Practial.Domain.AssemblyInfo.cs
+D:\Project\Practical\Practial.Domain\obj\Debug\netcoreapp3.1\Practial.Domain.csproj.CoreCompileInputs.cache
+D:\Project\Practical\Practial.Domain\obj\Debug\netcoreapp3.1\Practial.Domain.dll
+D:\Project\Practical\Practial.Domain\obj\Debug\netcoreapp3.1\Practial.Domain.pdb
+D:\Project\Practical\Practial.Domain\obj\Debug\netcoreapp3.1\Practial.Domain.genruntimeconfig.cache

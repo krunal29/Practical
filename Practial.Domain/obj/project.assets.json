@@ -1887,11 +1887,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PracticalDemo\\Practial.Domain\\Practial.Domain.csproj",
+      "projectUniqueName": "D:\\Project\\Practical\\Practial.Domain\\Practial.Domain.csproj",
       "projectName": "Practial.Domain",
-      "projectPath": "D:\\PracticalDemo\\Practial.Domain\\Practial.Domain.csproj",
+      "projectPath": "D:\\Project\\Practical\\Practial.Domain\\Practial.Domain.csproj",
       "packagesPath": "C:\\Users\\Krunal.Patel\\.nuget\\packages\\",
-      "outputPath": "D:\\PracticalDemo\\Practial.Domain\\obj\\",
+      "outputPath": "D:\\Project\\Practical\\Practial.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

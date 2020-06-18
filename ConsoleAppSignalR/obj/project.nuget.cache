@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UZl34H52mpDPoQ2qhWMU1F9R/fECRxD0U8jSlIPVuY93pfCehDgO7fffF9DYA5FaQBowgqrfg26180LFIxqSaw==",
+  "dgSpecHash": "/1Dwg7u9r0BlyGgDVZCYj2DgpB03+YQMl1pgL67hEtG5FN63Uff5JrSPg5S77Jhy8+Ae6o1jNhqHXp4B6Fe8HQ==",
   "success": true,
-  "projectFilePath": "D:\\PracticalDemo\\ConsoleAppSignalR\\ConsoleAppSignalR.csproj",
+  "projectFilePath": "D:\\Project\\Practical\\ConsoleAppSignalR\\ConsoleAppSignalR.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Krunal.Patel\\.nuget\\packages\\microsoft.aspnet.signalr.client\\2.4.1\\microsoft.aspnet.signalr.client.2.4.1.nupkg.sha512",
     "C:\\Users\\Krunal.Patel\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\3.1.4\\microsoft.aspnetcore.connections.abstractions.3.1.4.nupkg.sha512",

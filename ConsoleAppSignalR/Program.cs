@@ -9,7 +9,7 @@ namespace ConsoleAppSignalR
         {
             Console.WriteLine("Hello World!");
 
-            var url = "https://localhost:44363/notificationHub";
+            var url = "https://localhost:44341/notification";
             HubConnection connection = new HubConnectionBuilder()
                  .WithUrl(new Uri(url)).WithAutomaticReconnect().Build();
 
